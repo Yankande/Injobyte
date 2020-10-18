@@ -1,0 +1,34 @@
+[
+  {
+    "no": "4",
+    "catname": "WAGON",
+    "seats": "10",
+    "numvehi": "4",
+    "available": "4",
+    "photo1": "car.png"
+  },
+  {
+    "no": "3",
+    "catname": "LUXE",
+    "seats": "7",
+    "numvehi": "5",
+    "available": "5",
+    "photo1": "car.png"
+  },
+  {
+    "no": "2",
+    "catname": "CONFORT",
+    "seats": "5",
+    "numvehi": "3",
+    "available": "3",
+    "photo1": "car.png"
+  },
+  {
+    "no": "1",
+    "catname": "CLASSIQUE",
+    "seats": "4",
+    "numvehi": "3",
+    "available": "3",
+    "photo1": "car.png"
+  }
+]
